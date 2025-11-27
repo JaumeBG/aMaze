@@ -1,8 +1,3 @@
----
-title: "Readme"
-output: html_document
----
-
 # Maze Game & Player Behaviour Analysis
 
 ## 1. Overview
