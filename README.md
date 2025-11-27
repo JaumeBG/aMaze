@@ -4,6 +4,10 @@
 
 I designed and developed a small mobile maze game using Unity to investigate how players explore routes and adapt their behaviour under time pressure, and how they respond to rewards. The game procedurally generates maze layouts and records player behaviour as timing and decision measures on each trial.
 
+<p align="center">
+  <img src="media/screenshot_3.jpg" width="300">
+</p>
+
 This project combines my background in cognitive science and time perception with my interest in game analytics. It allowed me to build a full pipeline from experimental/game design, to gathering gameplay data, to analysing game and player data in R, and finally reaching behavioural insights.
 
 ------------------------------------------------------------------------
